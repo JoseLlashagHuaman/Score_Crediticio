@@ -14,7 +14,7 @@ Dada la información relacionada con el crédito de una persona, crear un modelo
 José Llashag Huamán
 
 ### Link de la web:
-<a href="josllashagdmcmlopsprueba.azurewebsites.net">josllashagdmcmlopsprueba.azurewebsites.net</a>
+<a href="https://josllashagdmcmlopsprueba.azurewebsites.net">josllashagdmcmlopsprueba.azurewebsites.net</a>
 
 ### Link del repositorio:
 https://github.com/JoseLlashagHuaman/Score_Crediticio.git
